@@ -1,5 +1,9 @@
 ﻿namespace GestionBancariaAppNS
 {
+    /// <summary>
+    /// Project Gestion Bancaria
+    /// </summary>
+    /// <seealso cref="System.Windows.Forms.Form" />
     partial class GestionBancariaApp
     {
         /// <summary>
